@@ -63,7 +63,7 @@ function App() {
       theta: 0,
       dark: 1,
       diffuse: 0.8,
-      mapSamples: 80000,
+      mapSamples: 60000,
       scale:1.2,
       mapBrightness: 6,
       baseColor: [0.3, 0.3, 0.3],
